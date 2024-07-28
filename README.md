@@ -2,7 +2,7 @@
 ![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
 ![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
 
-<img src="InShot_20240728_234031966[1].jpg" alt="CSS" style="height: 600px;"/>
+<img src="InShot_20240728_234031966[1].jpg" alt="CSS" style="height: 333px;"/>
 ## Who am I ?! Look at the code below
 
 ```javascript
