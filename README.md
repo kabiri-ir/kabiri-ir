@@ -35,6 +35,9 @@ console.log(profile);
 
 ```
 > من `یونس کبیری` 31 ساله اهل ایران هستم. من در حال یادگیری علم طراحی و توسعه وب هستم. امیدوارم بتوانم اطلاعاتم را با شما به اشتراک بگذارم و همچنین از تجربیات شما استفاده کنم. این متن را به زبان شیرین فارسی تایپ نموده ام.
+<a href="[https://github.com/kabiri-ir]">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b6f1b345900003.58408a810b399.gif" alt="CSS" style="height: auto; width: 100%;"/>
+</a>
 
 ## 🛠️My interests and skills :
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
