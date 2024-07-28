@@ -28,82 +28,94 @@ console.log(profile);
 > من `یونس کبیری` و اهل کشور زیبای ایران می باشم و این متن را به زبان فارسی، تایپ نموده ام.
 
 ## My interests and skills :
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <!-- JavaScript Badge -->
   <a href="https://www.javascript.com" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="height: 40px;"/>
   </a>
   
   <!-- Python Badge -->
   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="height: 40px;"/>
   </a>
   
   <!-- HTML Badge -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-5C2D91?style=flat&logo=html5&logoColor=white" alt="HTML" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/HTML-5C2D91?style=flat&logo=html5&logoColor=white" alt="HTML" style="height: 40px;"/>
   </a>
   
   <!-- CSS Badge -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="height: 40px;"/>
   </a>
   
   <!-- React Badge -->
   <a href="https://reactjs.org" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="height: 40px;"/>
   </a>
   
   <!-- Node.js Badge -->
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="height: 40px;"/>
   </a>
   
   <!-- Tailwind CSS Badge -->
   <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="height: 40px;"/>
   </a>
   
   <!-- CSS Grid Badge -->
   <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS%20Grid-F5F5F5?style=flat&logo=css3&logoColor=1572B6" alt="CSS Grid" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/CSS%20Grid-F5F5F5?style=flat&logo=css3&logoColor=1572B6" alt="CSS Grid" style="height: 40px;"/>
   </a>
   
   <!-- Flexbox Badge -->
   <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">
-    <img src="https://img.shields.io/badge/Flexbox-F5F5F5?style=flat&logo=css3&logoColor=1572B6" alt="Flexbox" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/Flexbox-F5F5F5?style=flat&logo=css3&logoColor=1572B6" alt="Flexbox" style="height: 40px;"/>
   </a>
   
   <!-- Adobe Illustrator Badge -->
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" style="height: 40px;"/>
   </a>
   
   <!-- Adobe Photoshop Badge -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-26C1F4?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-26C1F4?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" style="height: 40px;"/>
   </a>
   
   <!-- Network+ Badge -->
   <a href="https://www.comptia.org/certifications/network" target="_blank">
-    <img src="https://img.shields.io/badge/Network%2B-0072CE?style=flat&logo=network+&logoColor=white" alt="Network+" style="height: 50px;"/>
+    <img src="https://img.shields.io/badge/Network%2B-0072CE?style=flat&logo=network+&logoColor=white" alt="Network+" style="height: 40px;"/>
   </a>
 </div>
+
 
 
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <!-- GitHub Stats Card -->
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kabiri-ir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+
+  <div style="flex: 1; padding: 0 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kabiri-ir&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="GitHub Stats" style="width: 100%;"/>
   </div>
-  
-  <!-- Top Languages Card -->
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabiri-ir&layout=compact" alt="Top Languages" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+
+  <div style="flex: 1; padding: 0 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabiri-ir&layout=compact" alt="Top Languages" style="width: 100%;"/>
   </div>
+
 </div>
+
+
+
+
+
+
+### 🤝 Interested in Collaborating?
+
+If you have a project idea or want to collaborate, please [open an issue](https://github.com/kabiri-ir/your-repo/issues) or send me a message!
+
+
 
 
 
