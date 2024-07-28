@@ -48,6 +48,21 @@ console.log(profile);
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabiri-ir&layout=compact" alt="Top Languages"/>
 </div>
 
+## GitHub Stats
+
+<div style="display: flex; justify-content: space-between;">
+  <!-- GitHub Stats Card -->
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kabiri-ir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </div>
+  
+  <!-- Top Languages Card -->
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabiri-ir&layout=compact" alt="Top Languages" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </div>
+</div>
+
+
 
 
 
