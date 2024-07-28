@@ -41,5 +41,12 @@ console.log(profile);
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-26C1F4?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-0072CE?style=flat&logo=network+&logoColor=white)
 
+## 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabiri-ir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabiri-ir&layout=compact)
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api/activity?username=kabiri-ir)
+
+
 
