@@ -35,11 +35,13 @@ console.log(profile);
 
 ```
 > من `یونس کبیری` 31 ساله اهل ایران هستم. من در حال یادگیری علم طراحی و توسعه وب هستم. امیدوارم بتوانم اطلاعاتم را با شما به اشتراک بگذارم و همچنین از تجربیات شما استفاده کنم. این متن را به زبان شیرین فارسی تایپ نموده ام.
-<a href="[https://github.com/kabiri-ir]">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b6f1b345900003.58408a810b399.gif" alt="CSS" style="height: auto; width: 100%;"/>
-</a>
 
 ## 🛠️My interests and skills :
+
+<a href="[https://github.com/kabiri-ir]">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif" alt="CSS" style="height: auto; width: 100%; "/>
+</a>
+
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <!-- JavaScript Badge -->
   <a href="https://www.javascript.com" target="_blank">
@@ -130,11 +132,10 @@ console.log(profile);
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabiritdeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-
+___
+<a href="[https://github.com/kabiri-ir]">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b6f1b345900003.58408a810b399.gif" alt="CSS" style="height: auto; width: 100%; "/>
+</a>
 
 
 ### 🤝 Interested in Collaborating?
