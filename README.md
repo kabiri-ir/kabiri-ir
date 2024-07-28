@@ -8,7 +8,7 @@ ___
 ![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
 ![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
 
-# Who am I ?! Look at the code below
+# Who am I ?! 🤔 Look at the code below 🙇
 
 ```javascript
 const profile = {
@@ -33,7 +33,8 @@ console.log(profile);
 
 ```
 > من `یونس کبیری` 31 ساله اهل ایران هستم. من در حال یادگیری علم طراحی و توسعه وب هستم. امیدوارم بتوانم اطلاعاتم را با شما به اشتراک بگذارم و همچنین از تجربیات شما استفاده کنم. این متن را به زبان شیرین فارسی تایپ نموده ام.
-## My interests and skills :
+
+## 🛠️My interests and skills :
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <!-- JavaScript Badge -->
   <a href="https://www.javascript.com" target="_blank">
