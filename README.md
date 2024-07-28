@@ -1,4 +1,8 @@
 ## Hi my friends! I am very happy that you came to my page👋
+![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/kabiri-ir?style=social)
+![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
+
 
 ## Who am I ?! Look at the code below
 
@@ -40,7 +44,4 @@ console.log(profile);
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-26C1F4?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-0072CE?style=flat&logo=network+&logoColor=white)
 
-![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/kabiri-ir?style=social)
-![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
 
