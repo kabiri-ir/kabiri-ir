@@ -1,9 +1,10 @@
-## Hi my friends! I am very happy that you came to my page👋
-![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
-![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
 ___
 <img src="InShot_20240728_234031966[1].jpg" alt="CSS" style="height: auto; width: 100%;"/>
-___
+
+## Hi my friends! I am very happy that you came to my page👋
+
+![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
+![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
 
 # Who am I ?! Look at the code below
 
