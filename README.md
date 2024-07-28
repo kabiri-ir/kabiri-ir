@@ -2,7 +2,8 @@ ___
 <a href="[https://github.com/kabiri-ir]">
     <img src="InShot_20240728_234031966[1].jpg" alt="CSS" style="height: auto; width: 100%;"/>
 </a>
-## Hi my friends! I am very happy that you came to my page👋
+
+# Hi my friends! I am very happy that you came to my page👋
 
 ![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
 ![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
@@ -93,6 +94,16 @@ console.log(profile);
   <a href="https://www.comptia.org/certifications/network" target="_blank">
     <img src="https://img.shields.io/badge/Network%2B-0072CE?style=flat&logo=network+&logoColor=white" alt="Network+" style="height: 40px;"/>
   </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="height: 40px;"/>
+  </a>
+
+  <a href="https://www.php.net/" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" style="height: 40px;"/>
+  </a>
+
+
 </div>
 
 
