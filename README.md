@@ -123,6 +123,7 @@ console.log(profile);
 
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabiritdeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
