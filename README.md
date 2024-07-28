@@ -42,14 +42,6 @@ console.log(profile);
 ![Network+](https://img.shields.io/badge/Network%2B-0072CE?style=flat&logo=network+&logoColor=white)
 
 ## 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabiri-ir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabiri-ir&layout=compact)
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api/activity?username=kabiri-ir)
-
-## GitHub Stats
-
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kabiri-ir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabiri-ir&layout=compact" alt="Top Languages"/>
