@@ -1,6 +1,8 @@
 ## Hi my friends! I am very happy that you came to my page👋
 ![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/kabiri-ir?style=social)
+![GitHub Repositories](https://img.shields.io/github/repositories/kabiri-ir?style=flat)
+![GitHub Commits](https://github-readme-stats.vercel.app/api/commits/?username=kabiri-ir)
 ![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
 
 
