@@ -8,6 +8,8 @@ ___
 ![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
 ![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kabiri-ir)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Who am I ?! 🤔 Look at the code below 🙇
 
 ```javascript
