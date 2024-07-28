@@ -44,13 +44,13 @@ console.log(profile);
 ## GitHub Stats
 
 <div>
-  <img align="left" src="https://img.shields.io/github/issues/kabiri-ir?style=social" alt="GitHub Issues"/>
-  <img align="left" src="https://img.shields.io/github/issues-pr/kabiri-ir?style=social" alt="GitHub Pull Requests"/>
-  <img align="left" src="https://img.shields.io/github/stars/kabiri-ir?style=social" alt="GitHub Stars"/>
-  <img align="left" src="https://img.shields.io/github/forks/kabiri-ir?style=social" alt="GitHub Forks"/>
-  <img align="left" src="https://img.shields.io/github/followers/kabiri-ir?style=social" alt="GitHub Followers"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/commits/?username=kabiri-ir" alt="GitHub Commits"/>
+  <img align="left" src="https://img.shields.io/github/issues/kabiri-ir?style=flat-square" alt="GitHub Issues"/>
+  <img align="left" src="https://img.shields.io/github/issues-pr/kabiri-ir?style=flat-square" alt="GitHub Pull Requests"/>
+  <img align="left" src="https://img.shields.io/github/stars/kabiri-ir?style=flat-square" alt="GitHub Stars"/>
+  <img align="left" src="https://img.shields.io/github/forks/kabiri-ir?style=flat-square" alt="GitHub Forks"/>
+  <img align="left" src="https://img.shields.io/github/followers/kabiri-ir?style=flat-square" alt="GitHub Followers"/>
 </div>
+
 
 
 
