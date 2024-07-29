@@ -5,8 +5,11 @@ ___
 
 # Hi my friends! I am very happy that you came to my page👋
 
-![GitHub Status](https://img.shields.io/github/followers/kabiri-ir?style=social)
-![GitHub Repos](https://img.shields.io/github/stars/kabiri-ir?style=social)
+<div align="center">
+  
+<img  src='https://visitcount.itsvg.in/api?id=kabiri-ir&label=Profile%20Views&color=3&icon=5&prett'>
+
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kabiri-ir)](https://github.com/ryo-ma/github-profile-trophy)
 
