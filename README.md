@@ -130,7 +130,7 @@ console.log(profile);
 
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kabiritdeveloper&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabiritdeveloper&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 <a href="[https://github.com/kabiri-ir]">
