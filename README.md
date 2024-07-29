@@ -7,7 +7,7 @@ ___
 
 <div align="center">
   
-<img  src='https://visitcount.itsvg.in/api?id=kabiri-ir&label=Profile%20Views&color=3&icon=5&prett'  style="height: auto; width: 100%;">
+<img  src='https://visitcount.itsvg.in/api?id=kabiri-ir&label=Profile%20Views&color=3&icon=5&prett'  style="height: 140px; width: 100%;">
 
 </div>
 
